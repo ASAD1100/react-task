@@ -1,0 +1,10 @@
+.layout{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.center-layout{
+    max-width: 1000px;
+}
